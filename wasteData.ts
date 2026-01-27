@@ -447,7 +447,7 @@ export const wasteData: NeighborhoodData = {
     streets: [
       "birkihvammur", "bæjarhvammur", "fagrihvammur", "fjóluhvammur", "háihvammur", "hraunkambur", "klausturhvammur", "hvammabraut", "lynghvammur", "lækjarhvammur",
       "reynihvammur", "smárahvammur", "staðarhvammur", "stekkjarhvammur", "suðurhvammur", "túnhvammur", "víðihvammur",
-      "brekkugata", "hamarsbraut", "hellubraut", "hlíðarbraut", "holtsgata", "hringbraut", "garðstígur", "lækjargata", "mýrargata", "selvogsgata", "strandgata", "suðurgata", "öldugata"
+      "brekkugata", "hamarsbraut", "hellubraut", "hlíðarbraut", "holtsgata", "hringbraut", "garðstígur", "lækjargata", "mýrargata", "selvogsgata", "suðurgata", "suðurgata", "öldugata"
     ],
     gray_dates: [
       //desember 2024
