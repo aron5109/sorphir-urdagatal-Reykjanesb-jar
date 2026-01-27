@@ -187,7 +187,7 @@ const App = () => {
                 />
             </div>
             <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ color: COLORS.primary }}>Næsta losun á sorpi</h2>
-            <p className="text-gray-600 mb-8 max-w-xl mx-auto">Sláðu inn götuheiti og fáðu upp sorphirðudagatal fyrir þitt svæði. Til dæmis "Suðurgata".</p>
+            <p className="text-gray-600 mb-8 max-w-xl mx-auto">Sláðu inn götuheiti og fáðu upp sorphirðudagatal fyrir þitt svæði.<br /> Til dæmis "Suðurgata".</p>
             
             <form onSubmit={handleSearch} className="max-w-2xl mx-auto relative group">
                 <div className="flex shadow-md rounded-full overflow-hidden bg-[#4a4a4a] focus-within:ring-4 focus-within:ring-blue-100 transition-all">
